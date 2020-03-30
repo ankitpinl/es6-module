@@ -6,3 +6,7 @@ console.log(local)
 greet('Ankit')
 console.log(address);
 console.log(london);
+
+import person from './src/person';
+
+console.log(person);
